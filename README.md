@@ -20,4 +20,4 @@ BTCz.in plugin for Wordpress WooCommerce with pingback
 #### Checkout Selection
 ![gateway](https://i.imgur.com/o0x2A0q.png)
 #### Checkout iFrame
-![checkout](https://i.imgur.com/l6gSaUZ.png)
+![checkout](https://i.imgur.com/WNYTZvr.png)
