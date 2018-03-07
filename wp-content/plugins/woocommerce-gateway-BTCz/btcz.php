@@ -7,7 +7,6 @@
  * License:             MIT
  * Version:             1.0.0
  * Requires at least:   3.3
- * Tested up to:        3.4
  *
  */
 
